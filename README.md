@@ -1,4 +1,4 @@
-# Airbnb EDA Project
+# Airbnb EDA Project(Python)
 
 ## 🧭 Project Overview
 
